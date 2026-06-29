@@ -1,117 +1,136 @@
-<div align="center">
+# 👋 Hi, I'm Anusha Vemu
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech CSE Student</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Anusha%20Vemu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
-
-</div>
-
----
-
-### 👩‍💻 About Me
-
-I'm a final-year **B.Tech Computer Science** student from Andhra Pradesh, India, passionate about building full-stack web applications and integrating AI into real-world products.
-
-- 🔭 Currently building with **React · Node.js · PostgreSQL · Gemini AI**
-- 🤖 Exploring **Generative AI** and **Prompt Engineering**
-- 💡 Competitive programmer — **500+ problems** solved | **5★ on HackerRank**
-- 🎯 CGPA: **8.14** @ Aditya College of Engineering and Technology
-- 📄 **[View My Resume](https://vemuanusha.github.io/vemu_anusha-portfolio/Anusha_Vemu_Resume.pdf)** · **[Portfolio](https://github.com/vemuanusha/vemu_anusha-portfolio)**
-- 📬 Reach me at **[anushavemu95@gmail.com](mailto:anushavemu95@gmail.com)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Gemini+AI+%7C+Google+Cloud+Certified;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Languages & Tools**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**AI / Cloud**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+- 🎓 Final Year **B.Tech Computer Science Engineering** — Aditya College of Engineering & Technology, Surampalem (CGPA: 8.14)
+- 💻 Passionate about **Full-Stack Web Development** and **AI-powered applications**
+- 🤖 Built and shipped a production-ready **AI-powered task management system** integrated with **Gemini AI**
+- ☁️ **Google Cloud Generative AI** certified
+- 💡 Strong competitive programming background — **500+ problems solved**, **5★ on HackerRank**
+- 📍 Andhra Pradesh, India
+- 📫 **Email:** [anushavemu95@gmail.com](mailto:anushavemu95@gmail.com)
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🗂️ [TaskFlow Pro](https://github.com/vemuanusha/taskflow-pro-ai)
-> AI-powered Kanban task management app — React · Node.js · Express · PostgreSQL · Gemini AI
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-Full-stack application with task creation, priority tracking, dark mode, and calendar scheduling. Integrated **Gemini AI** for intelligent task suggestions and automation.
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+</p>
 
----
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
+</p>
 
-#### 💼 [Job Board & Application Tracker API](https://github.com/vemuanusha/Job-Board-Application-Tracker-API)
-> RESTful backend for job listings and applications — Node.js · Express · PostgreSQL
+### AI / ML
+- Gemini AI · Generative AI (Google Cloud) · Prompt Engineering
 
-JWT-based authentication, role-based access control, normalized PostgreSQL schema, and clean MVC architecture.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vemuanusha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vemuanusha&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vemuanusha&theme=tokyonight&hide_border=true)
-
-</div>
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🚀 Featured Projects
 
-| Badge | Achievement |
-|-------|-------------|
-| ☁️ Google Cloud | Generative AI Certification |
-| ⭐ HackerRank | 5★ — Problem Solving, C, C++, SQL |
-| 🏅 CodeChef | 500+ Problems Solved |
-| 📘 HackerRank | Basics of SQL & Problem Solving |
+### 🗂️ TaskFlow Pro
+**AI-powered Kanban Task Management Application**
 
----
+**Tech Stack:** React · Node.js · Express.js · PostgreSQL · Gemini AI
 
-### 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-vemu-639213291/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushavemu95@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vemuanusha)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vemuanusha)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vemuanusha)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vemuanusha)
-
-</div>
+- 🤖 Integrated **Gemini AI** for intelligent task suggestions and automation
+- 📅 Calendar-based scheduling with priority tracking
+- 🌙 Dark mode + responsive design
+- 🔐 User authentication with secure session management
+- 🗄️ PostgreSQL for persistent relational storage with clean REST API architecture
 
 ---
 
-<div align="center">
+### 📋 Job Board & Application Tracker API
+**RESTful Backend API**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vemuanusha.vemuanusha)
+**Tech Stack:** Node.js · Express.js · PostgreSQL
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+- 🔐 **JWT-based authentication** with role-based access control (admin/user)
+- 🏗️ Normalised PostgreSQL schema with foreign key relationships; clean **MVC architecture**
+- 📦 Full CRUD operations managing job listings, applications, and status tracking
+- ✅ Robust input validation and error handling middleware
+- 📂 Source available on GitHub
 
-</div>
+---
+
+## 💼 Experience
+
+**Full Stack MERN Developer Intern** — Smart Bridge, Andhra Pradesh *(May – July)*
+- Built full-stack MERN web applications with user authentication and secure session management
+- Performed systematic debugging, testing, and performance optimisation of web modules
+- Followed SDLC practices with Git version control; collaborated on feature branches
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ☁️ **Generative AI** — Google Cloud (directly relevant to AI product work)
+- ⭐ **5★ on HackerRank** — Problem Solving, C, C++, SQL
+- 💻 **500+ problems solved** on CodeChef
+- 📘 Basics of SQL & Problem Solving — HackerRank
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_GITHUB_URL">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:anushavemu95@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="YOUR_HACKERRANK_URL">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="YOUR_CODECHEF_URL">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
