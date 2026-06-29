@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Gemini+AI+%7C+Google+Cloud+Certified;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -95,11 +95,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vemuanusha&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=vemuanusha&theme=tokyonight" />
 </p>
 
 ---
