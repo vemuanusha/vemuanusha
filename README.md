@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anusha Vemu
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech CSE Student</h3>
+<h3 align="center">💻 Full-Stack Developer | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Gemini+AI+%7C+Google+Cloud+Certified;Always+Learning+New+Technologies" />
@@ -37,7 +37,7 @@
 </p>
 
 ### AI / ML
-- Gemini AI · Generative AI (Google Cloud) · Prompt Engineering
+- Gemini AI · Generative AI (Google Cloud)
 
 ### Tools
 <p>
@@ -107,30 +107,21 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/anusha-vemu-639213291/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/vemuanusha">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:anushavemu95@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="YOUR_HACKERRANK_URL">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="YOUR_CODECHEF_URL">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vemuanusha.vemuanusha" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
