@@ -54,14 +54,14 @@ I'm a final-year **B.Tech Computer Science** student from Andhra Pradesh, India,
 
 ### 🚀 Featured Projects
 
-#### 🗂️ [TaskFlow Pro](https://github.com/vemuanusha)
+#### 🗂️ [TaskFlow Pro](https://github.com/vemuanusha/taskflow-pro-ai)
 > AI-powered Kanban task management app — React · Node.js · Express · PostgreSQL · Gemini AI
 
 Full-stack application with task creation, priority tracking, dark mode, and calendar scheduling. Integrated **Gemini AI** for intelligent task suggestions and automation.
 
 ---
 
-#### 💼 [Job Board & Application Tracker API](https://github.com/vemuanusha)
+#### 💼 [Job Board & Application Tracker API](https://github.com/vemuanusha/Job-Board-Application-Tracker-API)
 > RESTful backend for job listings and applications — Node.js · Express · PostgreSQL
 
 JWT-based authentication, role-based access control, normalized PostgreSQL schema, and clean MVC architecture.
