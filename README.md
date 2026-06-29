@@ -14,7 +14,7 @@ I'm a final-year **B.Tech Computer Science** student from Andhra Pradesh, India,
 - 🤖 Exploring **Generative AI** and **Prompt Engineering**
 - 💡 Competitive programmer — **500+ problems** solved | **5★ on HackerRank**
 - 🎯 CGPA: **8.14** @ Aditya College of Engineering and Technology
-- 📄 **[View My Resume](https://github.com/vemuanusha/vemu_anusha-portfolio/blob/main/Anusha_Vemu_Resume.pdf)** · **[Portfolio](https://github.com/vemuanusha/vemu_anusha-portfolio)**
+- 📄 **[View My Resume](https://drive.google.com/[your-link-here](https://drive.google.com/file/d/1a8ACVr9Ra0ueAx8H0U9gRAOJii923mD8/view?usp=sharing))** · **[Portfolio](https://github.com/vemuanusha/vemu_anusha-portfolio)**
 - 📬 Reach me at **[anushavemu95@gmail.com](mailto:anushavemu95@gmail.com)**
 
 ---
